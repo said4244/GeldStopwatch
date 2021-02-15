@@ -3,6 +3,6 @@ GeldStopwatch is een programma die voor je kan uitrekenen hoeveel geld je zou ma
 
 
 - kijk bij de map genaamd 'instructies' om te kijken hoe je het programma moet gebruiken. (let goed op bij het filmpje 'errors.webm' in in instructies)
-- het programma slaat alles automatisch op in een .txt bestand (log.file). Het slaat dingen op zoals hoeveel geld je hebt gemaakt, hoelang je de stopwatch aanhad, datum en tijd dat je de stopwatch had gestart en datum en tijd dat je de stop had gestopt.
+- het programma slaat alles automatisch op in een .txt bestand (log.txt). Het slaat dingen op zoals hoeveel geld je hebt gemaakt, hoelang je de stopwatch aanhad, datum en tijd dat je de stopwatch had gestart en datum en tijd dat je de stop had gestopt.
 
 - python versie = 3.9
