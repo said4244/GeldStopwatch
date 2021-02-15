@@ -1,0 +1,97 @@
+started at: [15/02/2021, 12:16:19]
+totale tijd: 0:00:24
+totaal geld gemaakt: €2.581
+uurloon: 404
+geëindigd op: [15/02/2021, 12:16:43]
+
+started at: [15/02/2021, 12:47:15]
+totale tijd: 0:02:48
+totaal geld gemaakt: €3,230
+uurloon: 69.22
+geëindigd op: [15/02/2021, 12:50:03]
+
+started at: [15/02/2021, 12:53:49]
+totale tijd: 0:01:10
+totaal geld gemaakt: €1,710
+uurloon: 89,23
+geëindigd op: [15/02/2021, 12:54:59]
+
+started at: [15/02/2021, 12:56:09]
+totale tijd: 0:00:10
+totaal geld gemaakt: €0,224
+uurloon: €89,67p/u
+geëindigd op: [15/02/2021, 12:56:19]
+
+started at: [15/02/2021, 12:59:08]
+totale tijd: 0:00:14
+totaal geld gemaakt: €0,324
+uurloon: €89,6p/u
+geëindigd op: [15/02/2021, 12:59:22]
+
+started at: [15/02/2021, 13:04:04.960496]
+totale tijd: 0:01:07.513064
+totaal geld gemaakt: €1,297
+uurloon: €69,69p/u
+geëindigd op: [15/02/2021, 13:05:12.473560]
+
+started at: [15/02/2021, 13:42:38.332519]
+totale tijd: 0:00:01.715145
+totaal geld gemaakt: €0,000
+uurloon: €7,2 p/u
+geëindigd op: [15/02/2021, 13:42:40.047664]
+
+started at: [15/02/2021, 13:43:25.724632]
+totale tijd: 0:00:08.761283
+totaal geld gemaakt: €0,016
+uurloon: €7,2 p/u
+geëindigd op: [15/02/2021, 13:43:34.485915]
+
+started at: [15/02/2021, 13:45:23.730040]
+totale tijd: 0:00:01.717600
+totaal geld gemaakt: €0,000
+uurloon: €8,3 p/u
+geëindigd op: [15/02/2021, 13:45:25.447640]
+
+started at: [15/02/2021, 15:40:17.857125]
+started at: [15/02/2021, 17:19:16.859725]
+totale tijd: 0:02:12.571628
+totaal geld gemaakt: €2,542
+uurloon: €69,34 p/u
+geëindigd op: [15/02/2021, 17:21:29.431353]
+
+started at: [15/02/2021, 17:22:45.289971]
+totale tijd: 0:00:06.803278
+totaal geld gemaakt: €0,000
+uurloon: €ghjks p/u
+geëindigd op: [15/02/2021, 17:22:52.093249]
+
+started at: [15/02/2021, 17:24:26.062669]
+totale tijd: 0:00:06.452357
+totaal geld gemaakt: €0,000
+uurloon: €ghf p/u
+geëindigd op: [15/02/2021, 17:24:32.515026]
+
+started at: [15/02/2021, 17:24:37.928246]
+totale tijd: 0:00:12.362645
+totaal geld gemaakt: €0,300
+uurloon: €90 p/u
+geëindigd op: [15/02/2021, 17:24:50.290891]
+
+started at: [15/02/2021, 17:25:43.225562]
+totale tijd: 0:00:17.805880
+totaal geld gemaakt: €0,037
+uurloon: €7,8 p/u
+geëindigd op: [15/02/2021, 17:26:01.031442]
+
+started at: [15/02/2021, 17:34:55.644861]
+totale tijd: 0:00:59.980366
+totaal geld gemaakt: €0,128
+uurloon: €7,8 p/u
+geëindigd op: [15/02/2021, 17:35:55.625227]
+
+started at: [15/02/2021, 17:37:12.898901]
+totale tijd: 0:00:15.014461
+totaal geld gemaakt: €0,019
+uurloon: €5 p/u
+geëindigd op: [15/02/2021, 17:37:27.913362]
+
